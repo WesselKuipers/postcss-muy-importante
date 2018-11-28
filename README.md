@@ -1,6 +1,6 @@
 # PostCSS Muy Importante [![Build Status][ci-img]][ci]
 
-[PostCSS] plugin that lets you write '!muy-importante' instead of 'important'.
+[PostCSS] plugin that lets you write '!muy-importante' instead of '!important'.
 
 [postcss]: https://github.com/postcss/postcss
 [ci-img]: https://travis-ci.org/WesselKuipers/postcss-muy-importante.svg
